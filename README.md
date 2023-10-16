@@ -24,6 +24,3 @@ Meu objetivo é me tornar um desenvolvedor back-end completo e qualificado, capa
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-> Lorem Ipsum is simply dummy text of the printing and typesetting industry - Lorem Ipsum
-
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamedeirosp&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
